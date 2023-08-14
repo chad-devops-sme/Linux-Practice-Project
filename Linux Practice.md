@@ -2,7 +2,7 @@
 
 ## 1. sudo command
 
-![Sudo command](Images/Sudocommand.jpg)
+![Sudo command](Images/SudoCommand.jpg)
 
 
 ## 2. pwd command
